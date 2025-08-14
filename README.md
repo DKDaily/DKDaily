@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DileepKumar
 - 👀 I’m interested in Cyber Security Engineering
-- 🌱 I’m currently working on making Cyber Security Tools that helps Cyber Security Beginners to Experts in thier daily job.
+- 🌱 I'm currently developing cybersecurity tools designed to support professionals at all levels—from beginners to experts—in their daily tasks.
 - 📫 How to reach me at LinkedIn : https://www.linkedin.com/in/dileep-kumar-ch-473725a0/
 
 <!---
